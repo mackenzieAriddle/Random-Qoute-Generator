@@ -12,6 +12,6 @@ famousQoute = ["Like a good neighbor, TRADEMARKED COMPANY is there!", "I can't b
 print("Would you like to play a little game?")
 print("Press Enter if you dare...")
 
-while True: #but whats true?
+while True:
 	input("...")
 	print(" '" + random.choice(famousQoute) + "'  - " + random.choice(famousName))
